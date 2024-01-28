@@ -1,1 +1,1 @@
-This is one of the projects made in EDA and Visualization Course in UCLA Extension.
+This is one of the projects made in [Exploratory Data Analysis and Visualization](https://www.uclaextension.edu/digital-technology/data-analytics-management/course/exploratory-data-analysis-and-visualization-com) Course in UCLA Extension.
